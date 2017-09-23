@@ -1,5 +1,5 @@
 public interface Naga {
-    public String smbr = "terbang";
+    public String smbr = "leumpang";
 
 
    public void smbr(String sembur);
