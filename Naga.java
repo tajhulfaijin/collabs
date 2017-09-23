@@ -1,5 +1,5 @@
 public interface Naga {
-    public String smbr = "demi alek ?";
+    public String smbr = "ubah";
 
 
    public void smbr(String sembur);
