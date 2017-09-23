@@ -3,5 +3,6 @@ public interface Naga {
 
 
    public void smbr(String sembur);
-
+   *//how
+//*
 }
