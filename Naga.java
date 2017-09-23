@@ -1,7 +1,7 @@
 public interface Naga {
-    public String smbr = "Sembur";
+    public String smbr = "terbang";
 
 
-   public void smbr(String smbr);
+   public void smbr(String sembur);
 
 }
